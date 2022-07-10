@@ -1,0 +1,16 @@
+<body>
+  <marquee behavior="slide" direction="left">
+    <img src="azurelogo.png" width="120" height="80" alt="azurelogo" />
+  </marquee>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is Loknadh</h1>
+<p>My first html webpage.</p>
+
+<img src="azurelogo.png" alt="Azure logo" width="300" height="100">
+
+</body>
+</html>
